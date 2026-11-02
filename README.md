@@ -21,3 +21,6 @@ Sebelum menjalankan aplikasi, pastikan komputer Anda telah terinstal:
 4. Tunggu hingga proses loading project selesai.
 5. Klik kanan pada nama project, pilih Run (atau tekan tombol Run Project / F6 di NetBeans).
 6. Aplikasi akan terbuka dan siap digunakan!
+
+## Tampilan Aplikasi
+![Screenshot Aplikasi](Screenshot%20BMI.jpg)
