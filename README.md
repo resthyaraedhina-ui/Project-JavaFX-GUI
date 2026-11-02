@@ -23,4 +23,4 @@ Sebelum menjalankan aplikasi, pastikan komputer Anda telah terinstal:
 6. Aplikasi akan terbuka dan siap digunakan!
 
 ## Tampilan Aplikasi
-![Screenshot Aplikasi](Screenshot%20BMI.jpg)
+![Screenshot Aplikasi](Screenshot%20BMI.jpg.jpeg)
