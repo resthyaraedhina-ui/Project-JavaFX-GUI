@@ -1,19 +1,9 @@
 # Project JavaFX - GUI
 
-Aplikasi berbasis JavaFX yang dibuat menggunakan Apache NetBeans IDE. Project ini dirancang untuk menghitung nilai Indeks Massa Tubuh (BMI) secara praktis dan interaktif.
-
-## Fitur Utama
-* Kalkulator BMI otomatis berdasarkan berat dan tinggi badan.
-* Antarmuka pengguna (GUI) yang interaktif menggunakan JavaFX.
-* Validasi input data yang ringkas.
-
-## Requirements
-Sebelum menjalankan aplikasi, pastikan komputer Anda telah terinstal:
-* *Java Development Kit (JDK)* versi 11 atau yang lebih baru.
-* *Apache NetBeans IDE* (yang mendukung JavaFX dan Scene Builder).
+Aplikasi berbasis JavaFX yang dibuat menggunakan Apache NetBeans IDE. Project ini dirancang untuk menghitung nilai Indeks Massa Tubuh (BMI) secara praktis!
 
 ## How to Run
-1. *Clone atau Download* repository ini ke komputer Anda:
+1. *Clone atau Download* repository ini:
    ```bash
    git clone [https://github.com/resthyaraedhina-ui/Project-JavaFX-GUI.git](https://github.com/resthyaraedhina-ui/Project-JavaFX-GUI.git)
 2. Buka aplikasi Apache NetBeans IDE.
